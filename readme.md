@@ -171,4 +171,4 @@ Aktivitas akan dicatat di `rsync_manager.log`. Log dari eksekusi crontab akan me
 
 # ⚠️ WARNING
 
-Mode `twoway` tidak memiliki resolusi konflik (*conflict resolution*) tingkat lanjut. Rsync hanya akan menimpa file berdasarkan *timestamp* modifikasi terbaru. Pastikan Anda memahami struktur data Anda sebelum menggunakan mode ini.
+Mode `twoway` tidak memiliki resolusi konflik (*conflict resolution*) tingkat lanjut. Rsync hanya akan menimpa file berdasarkan *timestamp* modifikasi terbaru. Pastikan Anda memahami struktur data Anda sebelum menggunakan mode ini..
